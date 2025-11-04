@@ -1,0 +1,26 @@
+{
+  "usedLanguage": {
+    "label": "Language",
+    "polish": "Polish",
+    "english": "English"
+  },
+  "navbar": {
+    "about": "About Planerify",
+    "workflow": "How It Works",
+    "pricing": "Pricing",
+    "faq": "FAQ",
+    "contact": "Contact",
+    "login": "Get Started"
+  },
+  "homePage": {
+    "badge": "NEW",
+    "title": "Digital School Board",
+    "description": "A comprehensive SaaS system that enables easy management of class schedules and publishing of announcements on school displays.",
+    "buttonsHero": {
+      "login": "Get Started",
+      "demo": "See Demo"
+    },
+    "usedSchools": "Our solution is used by schools across the country.",
+    "team": "The team behind Planerify created this smart solution for schools."
+  }
+}

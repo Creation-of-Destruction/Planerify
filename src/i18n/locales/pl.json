@@ -1,0 +1,26 @@
+{
+  "usedLanguage": {
+    "label": "Język",
+    "polish": "Polski",
+    "english": "Angielski"
+  },
+  "navbar": {
+    "about": "O Planerify",
+    "workflow": "Jak to działa",
+    "pricing": "Cennik",
+    "faq": "FAQ",
+    "contact": "Kontakt",
+    "login": "Zacznij teraz"
+  },
+  "homePage": {
+    "badge": "Nowy",
+    "title": "Cyfrowa Tablica Szkolna",
+    "description": "Kompleksowy system SaaS umożliwiający wygodne zarządzanie planami lekcji i publikowanie ogłoszeń na ekranach w szkołach.",
+    "buttonsHero": {
+      "login": "Zacznij Teraz",
+      "demo": "Zobacz Demo"
+    },
+    "usedSchools": "Nasze rozwiązanie jest wykorzystywane przez szkoły w całym kraju.",
+    "team": "Zespół stojący za Planerify stworzył to nowoczesne rozwiązanie dla szkół."
+  }
+}
